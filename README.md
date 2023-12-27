@@ -1,5 +1,7 @@
 # Windows Wallpapers
 
+[🇵🇱 Polish version of README](README_PL.md)
+
 Wallpapers from Windows \
 Sounds, cursors and more coming soon.
 
