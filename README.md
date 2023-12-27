@@ -7,7 +7,7 @@ Sounds, cursors and more coming soon.
 
 ## Download
 
-[Download as zip](https://github.com/bartekl1/WindowsWallpapers/zipball/master/)
+[⬇ Download as zip](https://github.com/bartekl1/WindowsWallpapers/zipball/master/)
 
 ## Available wallpapers
 

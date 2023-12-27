@@ -5,7 +5,7 @@ Dźwięki, kursory i inne już wkrótce.
 
 ## Pobierz
 
-[Pobierz jako zip](https://github.com/bartekl1/WindowsWallpapers/zipball/master/)
+[⬇ Pobierz jako zip](https://github.com/bartekl1/WindowsWallpapers/zipball/master/)
 
 ## Dostępne tapety
 
