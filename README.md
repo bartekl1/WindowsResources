@@ -22,10 +22,11 @@ Sounds, cursors and more coming soon.
     - Desktop
     - Lock screen
 - Windows 7
-    - Desktop
+    - Desktop (with regional wallpapers)
 - Windows Vista
     - Desktop
 
 ## Path
 
-Wallpapers are stored in `C:\Windows\Web`
+Wallpapers are stored in `C:\Windows\Web` \
+Regional wallpapers on Windows 7 are stored in `C:\Windows\Globalization\MCT`

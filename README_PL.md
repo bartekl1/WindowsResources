@@ -20,10 +20,11 @@ Dźwięki, kursory i inne już wkrótce.
     - Pulpit
     - Ekran blokady
 - Windows 7
-    - Pulpit
+    - Pulpit (z regionalnymi tapetami)
 - Windows Vista
     - Pulpit
 
 ## Ścieżka
 
-Tapety są przechowywane w `C:\Windows\Web`
+Tapety są przechowywane w `C:\Windows\Web` \
+Regionalne tapety Windows 7 są przechowywane w `C:\Windows\Globalization\MCT`
