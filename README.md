@@ -1,8 +1,8 @@
-# :open_file_folder: Windows UI Assets
+# 📂 Windows UI Assets
 
 A collection of UI assets (wallpapers, icons, cursors, and sounds) from various versions of Microsoft Windows (7 through 11).
 
-## :arrow_down: Download
+## ⬇️ Download
 
 [Download the whole repository as a ZIP file](https://github.com/bartekl1/windows-ui-assets/zipball/master/)
 
@@ -16,17 +16,18 @@ git clone https://github.com/bartekl1/windows-ui-assets.git
 
 |             | Wallpapers                                                                                                           | Icons                                                                                                      | Cursors                                            | Sounds                                            |
 |-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
-| Windows 11  | [:spiral_notepad: Table](Tables/Windows%2011%20Wallpapers.md) [:open_file_folder: Files](Wallpapers/Windows%2011/)   | [:spiral_notepad: Table](Tables/Windows%2011%20Icons.md) [:open_file_folder: Files](Icons/Windows%2011/)   | [:open_file_folder: Files](Cursors/Windows%2011/)  | [:open_file_folder: Files](Sounds/Windows%2011/)  |
-| Windows 10  | [:spiral_notepad: Table](Tables/Windows%2010%20Wallpapers.md) [:open_file_folder: Files](Wallpapers/Windows%2010/)   | [:spiral_notepad: Table](Tables/Windows%2010%20Icons.md) [:open_file_folder: Files](Icons/Windows%2010/)   | [:open_file_folder: Files](Cursors/Windows%2010/)  | [:open_file_folder: Files](Sounds/Windows%2010/)  |
-| Windows 8.1 | [:spiral_notepad: Table](Tables/Windows%208.1%20Wallpapers.md) [:open_file_folder: Files](Wallpapers/Windows%208.1/) | [:spiral_notepad: Table](Tables/Windows%208.1%20Icons.md) [:open_file_folder: Files](Icons/Windows%208.1/) | [:open_file_folder: Files](Cursors/Windows%208.1/) | [:open_file_folder: Files](Sounds/Windows%208.1/) |
-| Windows 7   | [:spiral_notepad: Table](Tables/Windows%207%20Wallpapers.md) [:open_file_folder: Files](Wallpapers/Windows%207/)     | [:spiral_notepad: Table](Tables/Windows%207%20Icons.md) [:open_file_folder: Files](Icons/Windows%207/)     | [:open_file_folder: Files](Cursors/Windows%207/)   | [:open_file_folder: Files](Sounds/Windows%207/)   |
+| Windows 11  | [🗒️ Table](Tables/Windows%2011%20Wallpapers.md) [📂 Files](Wallpapers/Windows%2011/)   | [🗒️ Table](Tables/Windows%2011%20Icons.md) [📂 Files](Icons/Windows%2011/)   | [📂 Files](Cursors/Windows%2011/)  | [📂 Files](Sounds/Windows%2011/)  |
+| Windows 10  | [🗒️ Table](Tables/Windows%2010%20Wallpapers.md) [📂 Files](Wallpapers/Windows%2010/)   | [🗒️ Table](Tables/Windows%2010%20Icons.md) [📂 Files](Icons/Windows%2010/)   | [📂 Files](Cursors/Windows%2010/)  | [📂 Files](Sounds/Windows%2010/)  |
+| Windows 8.1 | [🗒️ Table](Tables/Windows%208.1%20Wallpapers.md) [📂 Files](Wallpapers/Windows%208.1/) | [🗒️ Table](Tables/Windows%208.1%20Icons.md) [📂 Files](Icons/Windows%208.1/) | [📂 Files](Cursors/Windows%208.1/) | [📂 Files](Sounds/Windows%208.1/) |
+| Windows 7   | [🗒️ Table](Tables/Windows%207%20Wallpapers.md) [📂 Files](Wallpapers/Windows%207/)     | [🗒️ Table](Tables/Windows%207%20Icons.md) [📂 Files](Icons/Windows%207/)     | [📂 Files](Cursors/Windows%207/)   | [📂 Files](Sounds/Windows%207/)   |
+| Windows XP   | [🗒️ Table](Tables/Windows%20XP%20Wallpapers.md) [📂 Files](Wallpapers/Windows%20XP/)     | [🗒️ Table](Tables/Windows%20XP%20Icons.md) [📂 Files](Icons/Windows%20XP/)     | [📂 Files](Cursors/Windows%20XP/)   | [📂 Files](Sounds/Windows%20XP/)   |
 
 > [!NOTE]  
 > Preview tables are not included here to keep the README concise and avoid performance issues in the browser.
 
 Files for older versions (Windows Vista and older) will be added soon.
 
-## :package: Sources
+## 📦 Sources
 
 Files have been extracted from official ISO files or from systems installed on VMs.
 
@@ -37,19 +38,19 @@ Files have been extracted from official ISO files or from systems installed on V
 | Cursors                                                                                                                           | `%WINDIR%\Cursors`                                                                                                                                                                                |
 | Sounds                                                                                                                            | `%WINDIR%\Media`                                                                                                                                                                                  |
 
-## :warning: Legal Notice
+## ⚠️ Legal Notice
 
 All trademarks, images and sounds are the property of **Microsoft Corporation**. \
 These resources are provided here for archival, educational, and personal use only. \
 Commercial use of these assets may violate Microsoft's End User License Agreement (EULA).
 
-## :scroll: License
+## 📜 License
 
 Repository structure and Markdown files (this README and preview tables) are released under the **MIT License**. \
 All graphical and audio materials extracted from Windows remain subject to Microsoft's original licensing terms. \
 This repository does not claim ownership of any Microsoft content.
 
-## :arrows_counterclockwise: Repository Renamed
+## 🔄 Repository Renamed
 
 This repository was previously named `WindowsResources`. \
 Repository has been renamed to `windows-ui-assets` to better reflect its content and purpose.
