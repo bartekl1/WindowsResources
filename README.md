@@ -1,6 +1,6 @@
 # 📂 Windows UI Assets
 
-A collection of UI assets (wallpapers, icons, cursors, and sounds) from various versions of Microsoft Windows (7 through 11).
+An unofficial collection of UI assets (wallpapers, icons, cursors, and sounds) from various versions of Microsoft Windows (XP through 11).
 
 ## ⬇️ Download
 
@@ -12,7 +12,7 @@ You can also clone the repository using Git:
 git clone https://github.com/bartekl1/windows-ui-assets.git
 ```
 
-## :card_file_box: Content
+## 🗃️ Content
 
 |             | Wallpapers                                                                                                           | Icons                                                                                                      | Cursors                                            | Sounds                                            |
 |-------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
@@ -20,12 +20,11 @@ git clone https://github.com/bartekl1/windows-ui-assets.git
 | Windows 10  | [🗒️ Table](Tables/Windows%2010%20Wallpapers.md) [📂 Files](Wallpapers/Windows%2010/)   | [🗒️ Table](Tables/Windows%2010%20Icons.md) [📂 Files](Icons/Windows%2010/)   | [📂 Files](Cursors/Windows%2010/)  | [📂 Files](Sounds/Windows%2010/)  |
 | Windows 8.1 | [🗒️ Table](Tables/Windows%208.1%20Wallpapers.md) [📂 Files](Wallpapers/Windows%208.1/) | [🗒️ Table](Tables/Windows%208.1%20Icons.md) [📂 Files](Icons/Windows%208.1/) | [📂 Files](Cursors/Windows%208.1/) | [📂 Files](Sounds/Windows%208.1/) |
 | Windows 7   | [🗒️ Table](Tables/Windows%207%20Wallpapers.md) [📂 Files](Wallpapers/Windows%207/)     | [🗒️ Table](Tables/Windows%207%20Icons.md) [📂 Files](Icons/Windows%207/)     | [📂 Files](Cursors/Windows%207/)   | [📂 Files](Sounds/Windows%207/)   |
+| Windows Vista   | [🗒️ Table](Tables/Windows%20Vista%20Wallpapers.md) [📂 Files](Wallpapers/Windows%20Vista/)     | [🗒️ Table](Tables/Windows%20Vista%20Icons.md) [📂 Files](Icons/Windows%20Vista/)     | [📂 Files](Cursors/Windows%20Vista/)   | [📂 Files](Sounds/Windows%20Vista/)   |
 | Windows XP   | [🗒️ Table](Tables/Windows%20XP%20Wallpapers.md) [📂 Files](Wallpapers/Windows%20XP/)     | [🗒️ Table](Tables/Windows%20XP%20Icons.md) [📂 Files](Icons/Windows%20XP/)     | [📂 Files](Cursors/Windows%20XP/)   | [📂 Files](Sounds/Windows%20XP/)   |
 
 > [!NOTE]  
 > Preview tables are not included here to keep the README concise and avoid performance issues in the browser.
-
-Files for older versions (Windows Vista and older) will be added soon.
 
 ## 📦 Sources
 
